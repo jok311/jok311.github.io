@@ -1,1 +1,0 @@
-let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{c as d,d as a}from"./index.ab5dd8d8.js";var s={};const n={class:"dash-box"};s.render=function(e,s,t,r,i,c){return d(),a("div",n," dash-dash-dash ")},s.__file="src/views/pages/dash/index.vue";export default s;
