@@ -1,0 +1,1 @@
+let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{d as n,o as l,c as a,a as d,b as o}from"./index.dd6c565f.js";var t=n({name:"Home",components:{}});const r=d(" login-page "),i=o("br",null,null,-1);t.render=function(e,n,d,o,t,s){return l(),a("div",null,[r,i])},t.__file="src/views/login/index.vue";export default t;
